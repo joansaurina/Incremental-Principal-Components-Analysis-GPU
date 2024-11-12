@@ -91,14 +91,14 @@ ipca.to('cuda:1')
 
 ## License
 
-MIT License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
 ```bibtex
 @software{ipca_gpu,
   title={Incremental Principal Components Analysis GPU},
-  author={Your Name},
+  author={Joan Saurina Ricós},
   year={2024},
   url={https://github.com/yourusername/ipca-gpu}
 }
